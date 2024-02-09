@@ -2,10 +2,10 @@
 This is a simple paint clone application built using PyQt5. The application allows users to draw on a canvas with different brush sizes and colors. Users can also save their drawings and clear the canvas.
 
 ## Features
-1.User can select different brush sizes
-2.User can select different brush colors
-3.Saving of the canvas
-4.Clearing the whole canvas at once
+*User can select different brush sizes<br>
+*User can select different brush colors
+*Saving of the canvas
+*Clearing the whole canvas at once
 
 ## Requirements
 1.Python 3.x
