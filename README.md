@@ -12,7 +12,7 @@ This is a simple paint clone application built using PyQt5. The application allo
 2. PyQt5
 
 ## Installation
-1. Clone the repository: git clone https://github.com/genan2003/paint-clone.git
+1. Clone the repository: git clone https://github.com/genan2003/PaintClone.git
 2. Install the required packages: pip install -r requirements.txt
 3. Run the application: python paint.py
 
